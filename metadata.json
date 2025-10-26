@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Creator",
+  "description": "An application to generate dynamic videos from a single image and a text prompt using Google's Veo model. Users can upload a photo, provide a creative prompt, choose an aspect ratio, and bring their vision to life in video format.",
+  "requestFramePermissions": []
+}
